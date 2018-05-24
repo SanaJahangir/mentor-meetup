@@ -1,0 +1,55 @@
+body{
+	 background-image: url(img-3.jpg);
+	 margin-top: 0px;
+
+}
+
+ul{
+	margin-right: 50px;
+	list-style-type: none;
+	margin: 25px;
+}
+
+li{
+	background-color: #ababab9e;
+	width: 250px;
+	padding: 25px;
+	text-align: center;
+	border-radius: 12px;
+	border-style: inset;
+	font-family: 'Lobster Two', cursive;
+	font-size: 30px;
+	margin: 5px;
+}
+
+a{
+	color: #ffffff;
+}
+
+header{
+	background-color: #ababab9e;
+	font-size: 100px;
+	font-family: 'Do Hyeon', sans-serif;
+	position: sticky;
+	top: 0px;
+	right: 0px;
+	left: 0px;
+	margin-top: -97px;
+	margin-left: -20px;
+	margin-right: -20px;
+	text-align: center;
+	text-shadow: 2px 2px 5px white;
+}
+
+div{
+	width: 35%;
+	margin: auto;
+}
+
+ul li:hover:nth-child(2){
+	background: black;
+}
+
+ul li:hover:nth-child(3){
+	background: black;
+}

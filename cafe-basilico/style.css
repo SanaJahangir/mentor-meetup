@@ -1,0 +1,49 @@
+body
+{
+    display: inline-block;
+}
+article
+{
+    height: 500px;
+    width:350px;
+    border:2px solid grey;
+}
+img
+{
+    height: 200px;
+    width: 350px;
+}
+h1
+{
+    font-size: 20px;
+    position: absolute;
+    left: 20px;
+}
+p
+{
+    color:#7f7f7f;
+    position: relative;
+   padding: 16px;
+}
+
+hr
+{
+    text-align: center;
+    width: 300px;
+    position: relative;
+    bottom:60px;
+}
+
+.time
+{
+    position:relative;
+     bottom:80px;
+   
+}
+
+.hh{
+    color:#518df5;
+    position: relative;
+    bottom:90px;
+    left: 8px;
+}
